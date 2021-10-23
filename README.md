@@ -1,6 +1,6 @@
 # Pangram
 
-Please note: I wrote the pangram.cpp and pangram.h. I did not write pangram_test.cpp
+Please note: I wrote the pangram.cpp and pangram.h files. I did not write pangram_test.cpp file. Thanks, Walt
 
 Welcome to Pangram on Exercism's C++ Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
